@@ -8,4 +8,4 @@ httpx
 python-dotenv
 pymongo
 motor
-openai
+openaireportlab
